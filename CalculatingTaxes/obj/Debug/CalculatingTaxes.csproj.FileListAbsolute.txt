@@ -1,0 +1,6 @@
+C:\Users\admin 1\Documents\Visual Studio 2017\Projects\CalculatingTaxes\CalculatingTaxes\bin\Debug\CalculatingTaxes.exe.config
+C:\Users\admin 1\Documents\Visual Studio 2017\Projects\CalculatingTaxes\CalculatingTaxes\bin\Debug\CalculatingTaxes.exe
+C:\Users\admin 1\Documents\Visual Studio 2017\Projects\CalculatingTaxes\CalculatingTaxes\bin\Debug\CalculatingTaxes.pdb
+C:\Users\admin 1\Documents\Visual Studio 2017\Projects\CalculatingTaxes\CalculatingTaxes\obj\Debug\CalculatingTaxes.csprojResolveAssemblyReference.cache
+C:\Users\admin 1\Documents\Visual Studio 2017\Projects\CalculatingTaxes\CalculatingTaxes\obj\Debug\CalculatingTaxes.exe
+C:\Users\admin 1\Documents\Visual Studio 2017\Projects\CalculatingTaxes\CalculatingTaxes\obj\Debug\CalculatingTaxes.pdb
